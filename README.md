@@ -1,9 +1,12 @@
-# Store Tracking System
+# Store System
 
 A system in python I created to help with managing customers and orders along with staff. This was built as a part of my coursework for college.
 
 # Video Walk-through
-file:///home/milana/Downloads/COURSEWORK/walkthrough%20of%20system.mkv
+
+> **Please Note:** You will be redirected to YouTube as this file exceeds GitHub's embedded video size
+
+[<img src="https://img.youtube.com/vi/Aaft0Jc68eI/maxresdefault.jpg" width="100%">](https://youtu.be/Aaft0Jc68eI)
 
 # Functionality
 
