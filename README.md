@@ -12,7 +12,7 @@ The system has several unique features that set it apart. Upon loading, no login
 ## Staff
 Staff members have the ability to view customer information and create new customer profiles. Additionally, they can access and manage orders, including updating order statuses and generating new orders.
 
-	> As this system is in third normal form,  it will not allow you to place an order if there is not an existing customer, as these are connected.
+> As this system is in third normal form,  it will not allow you to place an order if there is not an existing customer, as these are connected.
 
 Staff members can also review tasks that have been assigned to them by the admin. They have the capability to update the status of these tasks once they are completed.
 	
