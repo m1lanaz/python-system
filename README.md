@@ -3,7 +3,7 @@
 A system in python I created to help with managing customers and orders along with staff. This was built as a part of my coursework for college.
 
 # Video Walk-through
-
+file:///home/milana/Downloads/COURSEWORK/walkthrough%20of%20system.mkv
 
 # Functionality
 
